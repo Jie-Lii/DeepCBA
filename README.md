@@ -1,6 +1,6 @@
 # Precise prediction of maize gene expression based on chromatin interactions using DeepCBA
 
-![DeepCBA_summary](imgs/deepcba_summary.png)
+
 ## DeepCBA
 **DeepCBA** is a high-precision maize gene expression prediction model, which includes convolution neural network (CNN), bidirectional long short-term memory network (BiLSTM) and self-attention mechanism.  
 
