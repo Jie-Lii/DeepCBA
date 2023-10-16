@@ -3,15 +3,17 @@
 ![DeepCBA_summary](imgs/deepcba_summary.png)  
 
 ## DeepCBA
-**DeepCBA** is a high-precision maize gene expression prediction model, which includes convolution neural network (CNN), bidirectional long short-term memory network (BiLSTM) and self-attention mechanism.  
+**DeepCBA** is a high-precision maize gene expression prediction model, which includes *convolution neural network (CNN)*, *bidirectional long short-term memory network (BiLSTM)* and *self-attention mechanism*.  
 
 For additional details, we kindly invite you to refer to the DeepSTARR publication:  
 [*<ins>Precise prediction of maize gene expression based on chromatin interactions using DeepCBA</ins>*](tmp)  
 
-### DeepCBA Introduction
-We a deep learning mode called **DeepCBA** to make predictions based on chromatin interactions.  
+We also offer you the online service version of DeepCBA. Please visit [*http://www.deepcba.com*](http://www.deepcba.com) for more information.
 
-*DeepCBA* includes three modules, and the convolution neural network (CNN) is used to extract features of the encoded chromatin sequence and reduce the dimensionality. The bidirectional long short-term memory network (BiLSTM) can capture bidirectional information and have the ability to capture dependencies between features by accessing long-range context21. The BiLSTM is used to capture distal interactions among chromatin sequence features in this study. The self-attention mechanism is used to capture the contribution of key features for the model.
+### DeepCBA Introduction
+We built a deep learning mode called **DeepCBA** to predict *maize gene expression* based on *chromatin interactions*.  
+
+*DeepCBA* includes three modules, and the *convolution neural network (CNN)* is used to extract features of the encoded chromatin sequence and reduce the dimensionality. The *bidirectional long short-term memory network (BiLSTM)* can capture bidirectional information and have the ability to capture dependencies between features by accessing long-range context. The *BiLSTM* is used to capture distal interactions among chromatin sequence features in this study. The *self-attention mechanism* is used to capture the contribution of key features for the model.
 ![DeepCBA](imgs/deepcba.png)  
 
 ### Experimental Data Introduction
