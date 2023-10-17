@@ -8,7 +8,7 @@
 For additional details, we kindly invite you to refer to the DeepSTARR publication:  
 [*<ins>Precise prediction of maize gene expression based on chromatin interactions using DeepCBA</ins>*](tmp)  
 
-We also offer you the online service version of DeepCBA. Please visit [*http://www.deepcba.com*](http://www.deepcba.com) for more information.
+We also offer you the **online service version** of DeepCBA. Please visit [*http://www.deepcba.com*](http://www.deepcba.com) for more information.
 
 ### DeepCBA Introduction
 We built a deep learning mode called **DeepCBA** to predict *maize gene expression* based on *chromatin interactions*.  
