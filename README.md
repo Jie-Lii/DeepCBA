@@ -56,4 +56,4 @@ This project is based on Python 3.8.13. The required environment is as follows:
 For more required packages, please refer to the [requirements.txt](requirements.txt) file in this project.
 
 ## Questions
-If you have any questions, requests, or comments, we kindly invite you to contact us at [wangzhenye@webmail.hzau.edu.cn](wangzhenye@webmail.hzau.edu.cn), [liujianxiao321@webmail.hzau.edu.cn](liujianxiao321@webmail.hzau.edu.cn).
+If you have any questions, requests, or comments, we kindly invite you to contact us at [wangzhenye@webmail.hzau.edu.cn](mailto:wangzhenye@webmail.hzau.edu.cn), [liujianxiao321@webmail.hzau.edu.cn](mailto:liujianxiao321@webmail.hzau.edu.cn).
