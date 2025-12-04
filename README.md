@@ -37,8 +37,8 @@ If you are running this project using GPU, please configure CUDA and cuDNN accor
   
 |  | Version |
 |-----:|---------------|
-|    CUDA    |    8.0    |
-|    cuDNN    |    11.0    |  
+|    CUDA    |    11.8    |
+|    cuDNN    |    8.6    |  
 
 
 ### package Environment 
